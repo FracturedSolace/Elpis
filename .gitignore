@@ -154,6 +154,8 @@ $RECYCLE.BIN/
 
 # Mac desktop service store files
 .DS_Store
+ElpisSetup/Install/*
 Elpis/ReleaseData/ReleaseData.cs
+Elpis/ReleaseData.cs
 ElpisDroid/*
 packages/
